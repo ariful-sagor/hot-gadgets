@@ -1,0 +1,78 @@
+.container {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.bar {
+    display: flex;
+}
+
+.btn1 {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.sale {
+    padding: 10px 0px 10px;
+    padding-left: 70px;
+}
+
+.see {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+.see h6 {
+    color: yellow;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+.phone,
+.laptop {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+.phn,
+.lap {
+    padding: 10px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.cat {
+    text-align: center;
+}
+
+.bar1 {
+    padding: 5px 1px;
+    margin: 2px 510px;
+    background-image: linear-gradient(to right, yellow, orange);
+    border-radius: 10px;
+}
+
+.cat1 {
+    display: flex;
+}
+
+.shoe,
+.perfume,
+.bag {
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 0px 15px;
+    box-shadow: 3px 3px 3px 3px rgb(202, 195, 195);
+}
